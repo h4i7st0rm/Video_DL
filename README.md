@@ -1,4 +1,4 @@
-# YouTube Video Downloader Script
+# Video_DL
 
 This batch script allows you to download YouTube videos using [yt-dlp](https://github.com/yt-dlp/yt-dlp) with a user-friendly interface.
 
