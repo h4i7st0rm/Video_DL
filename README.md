@@ -11,9 +11,9 @@ This batch script allows you to download YouTube videos using [yt-dlp](https://g
 1. Run the script.
 2. Enter the YouTube video URL when prompted.
 3. Choose the desired resolution from the list of available formats.
-4. The video will be downloaded to the current directory with the last 7 characters of the URL as the filename.
+4. The video will be downloaded to the current directory with a filename based on the current date and time in the format "yyyyMMdd-HHmm".
 
 ## How to Run
 
 ```bash
-./Video_DL.bat
+./download_script.bat
